@@ -1,0 +1,47 @@
+  
+.jumbotron {
+  height: 200px;
+}
+
+#target-text {
+  font-size: 20px;
+}
+
+.bar {
+  border: 1px solid black;
+  height: 55px
+}
+
+#side-walk {
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+#gwp p {
+  text-align: left;
+  vertical-align: middle;
+  line-height: 90px;  
+  font-size: 30px;
+}
+
+#timer p {
+  text-align: right;
+  vertical-align: middle;
+  line-height: 90px; 
+  font-size: 30px;     
+}
+
+#correct {
+  background-color: yellow;
+}
+
+#wrong {
+  background-color: red;
+}
+
+#remaining {
+  background-color: white;
+}
